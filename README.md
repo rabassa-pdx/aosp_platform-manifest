@@ -9,8 +9,8 @@ Binary distributions can be found here instead: TBD
 Initialize repo with our manifest:
 
 ```bash
-mkdir -p ~/aosp/covesa-android-12.0.0 && cd "$_"
-repo init -u https://github.com/COVESA/aosp_platform-manifest -b android-12 --depth=1
+mkdir -p ~/aosp/covesa-android-15.0.0 && cd "$_"
+repo init -u https://github.com/COVESA/aosp_platform-manifest -b android-15 --depth=1
 ```
 
 `--depth=1` saves space and time. It creates a shallow clone, but you can still “unshallow” any repository on demand.
