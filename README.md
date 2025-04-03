@@ -29,7 +29,13 @@ Prepare build:
 
 ```bash
 source build/envsetup.sh
-lunch
+
+lunch covesa_emu_x86_64_car-aosp_current-userdebug
+
+OR
+
+lunch covesa_emu_arm_64_car-aosp_current-userdebug
+
 ```
 
 Select the target from `lunch` menu. For example, `covesa_emu_arm64_car-userdebug`. Then start the build:
