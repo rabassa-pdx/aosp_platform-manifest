@@ -9,7 +9,7 @@
            sync-j="4" />
 
   <remote  name="covesa-github"
-           fetch="https://github.com/COVESA" />
+           fetch="https://github.com/rabassa-pdx" />
 
   <!-- Copy of upstream AOSP manifest from https://android.googlesource.com/platform/manifest -->
   <include name="aosp-vanilla.xml" />
