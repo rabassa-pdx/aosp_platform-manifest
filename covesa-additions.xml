@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/covesa/emulator" name="aosp_device_covesa_emulator" remote="covesa-github" revision="android-12" />
+  <project path="device/covesa/emulator" name="aosp_device_covesa_emulator" remote="covesa-github" revision="fix-setup-wizard" />
 
 </manifest>
